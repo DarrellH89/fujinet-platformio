@@ -8,7 +8,7 @@
 **/.pio
 
 # PlatformIO project settings
-platformio.ini
+#platformio.ini
 
 # PlatformIO monitor logs
 platformio-device-monitor-*.log
